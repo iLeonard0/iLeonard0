@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eaee, meu nome é Leonardo Folle<br>📚 - Cursando Análise e Desenvolvimento de Sistemas <br>
+📚 - Cursando Análise e Desenvolvimento de Sistemas <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leonardofollee) 
