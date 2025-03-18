@@ -6,8 +6,8 @@
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardofollee) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-folle-9181ba319/)
 
-# Tech Stack
-<div style="display: inline_block, padding: 0"><br>
+## Tech Stack
+<div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -16,7 +16,7 @@
   <img align="center" alt="Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
 </div>
 
-# GitHub Stats:
+## GitHub Stats:
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=iLeonard0&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" /></td>
