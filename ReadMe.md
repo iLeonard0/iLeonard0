@@ -1,7 +1,7 @@
 
 # About Me:
 
-##### 👻 Hi, I'm Leonardo Folle, a 19-year-old student currently pursuing a degree in Systems Analysis and Development at UNIPAR. <br>
+ 👻 Hi, I'm Leonardo Folle, a 19-year-old student currently pursuing a degree in Systems Analysis and Development at UNIPAR. <br>
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/leonardofollee) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-folle-9181ba319/)
